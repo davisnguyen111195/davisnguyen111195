@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat">
  <img src="https://komarev.com/ghpvc/?username=davisnguyen111195"> 
  </div>
- <img src="https://img.shields.io/badge/-structured%20text-yellowgreen?logo=c%2B%2B&style=flat">
+ <img src="https://img.shields.io/badge/-structured%20text-yellowgreen?style=flat">
 https://img.shields.io/badge/-structured%20text-yellowgreen
 https://img.shields.io/badge/-ladder-blue
 https://img.shields.io/badge/-control%20system-red
