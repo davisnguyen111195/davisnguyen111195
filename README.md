@@ -6,17 +6,10 @@
 
 <div style="clear:both; width: 100%;"> 
 <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&style=flat"> <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat">
- <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat">
+ <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-structured%20text-yellowgreen?style=flat"> <img src="https://img.shields.io/badge/-structured%20text-yellowgreen?logo=c%2B%2B&style=flat"> <img src="https://img.shields.io/badge/-ladder-blue?style=flat"> <img src="https://img.shields.io/badge/-control%20system-red?style=flat"> <img src="https://img.shields.io/badge/-autocad%20electrical-purple"> <img src="https://img.shields.io/badge/-eplan%20electrical-red"> <img src="https://img.shields.io/badge/-arduino-blue"> <img src="https://img.shields.io/badge/-embedded%20linux-orange">
  <img src="https://komarev.com/ghpvc/?username=davisnguyen111195"> 
  </div>
- <img src="https://img.shields.io/badge/-structured%20text-yellowgreen?style=flat">
-https://img.shields.io/badge/-structured%20text-yellowgreen
-https://img.shields.io/badge/-ladder-blue
-https://img.shields.io/badge/-control%20system-red
-https://img.shields.io/badge/-autocad%20electrical-purple
-https://img.shields.io/badge/-eplan%20electrical-red
-https://img.shields.io/badge/-arduino-blue
-https://img.shields.io/badge/-embedded%20linux-orange
+
 
 - **Skills:** Control system, PLC programming.
 - **Personal Blog:** [https://dieukhienhoc.com](https://dieukhienhoc.com/)
