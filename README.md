@@ -1,6 +1,6 @@
 
 
-## Hi 👋, I'm Dat Nguyen | Control and Automation Engineer | Blogger @ [Dieukhienhoc.com](https://dieukhienhoc.com/)
+## Hi 👋, I'm Dat Nguyen | Control and Automation Engineer |
 
 ![92398696-07e9ae00-f164-11ea-9f4f-42df807a6218](https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif)
 
@@ -10,7 +10,5 @@
  
 
 - **Skills:** Control system, PLC programming.
-- **Personal Blog:** [https://dieukhienhoc.com](https://dieukhienhoc.com/)
-- **My projects:** [https://dieukhienhoc.com/portfolio/](https://dieukhienhoc.com/portfolio/)
 - **Coding languages (mostly use):** Structured Text, Ladder, C, Python, Javascript
-- **Links:** [My LinkedIn](https://www.linkedin.com/in/realdatnguyen/), [Dieukhienhoc.com](https://dieukhienhoc.com/).
+- **Links:** [My LinkedIn](https://www.linkedin.com/in/realdatnguyen/),
