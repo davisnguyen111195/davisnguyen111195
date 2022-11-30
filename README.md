@@ -12,5 +12,5 @@
 - **Skills:** Control system, PLC programming.
 - **Personal Blog:** [https://dieukhienhoc.com](https://dieukhienhoc.com/)
 - **My projects:** [https://dieukhienhoc.com/portfolio/](https://dieukhienhoc.com/portfolio/)
-- **Coding languages (mostly use):** Structured Text, Ladder, C, Python.
+- **Coding languages (mostly use):** Structured Text, Ladder, C, Python, Javascript
 - **Links:** [My LinkedIn](https://www.linkedin.com/in/realdatnguyen/), [Dieukhienhoc.com](https://dieukhienhoc.com/).
