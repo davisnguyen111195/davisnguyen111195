@@ -11,4 +11,4 @@
 
 - **Skills:** Control system, PLC programming.
 - **Coding languages (mostly use):** Java, C, Python, Javascript, PLC programmer
-- **Links:** [My LinkedIn](https://www.linkedin.com/in/realdatnguyen/),
+
