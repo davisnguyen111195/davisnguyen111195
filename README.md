@@ -9,5 +9,5 @@
  
 
 - **Skills:** Control system, PLC programming.
-- **Coding languages (mostly use):** Java, C, Python, Javascript, PLC programmer
+- **Coding languages (mostly use):** C/C++, Python, Javascript, PLC programmer
 
