@@ -8,6 +8,5 @@
  </div>
  
 
-- **Skills:** Control system
-- **Coding languages (mostly use):** C/C++
+- **Coding languages (mostly use):** C/C++, Java, Kotlin
 
